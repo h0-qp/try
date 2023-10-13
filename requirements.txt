@@ -1,0 +1,8 @@
+wget
+yt-dlp
+getids
+asyncio
+pyrogram
+user-agent
+youtube-search
+tgcrypto
